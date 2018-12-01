@@ -1,2 +1,4 @@
 Git is a distributed version control system.
 git is a free sofeware distributed under the GPL.
+git init created a branch named master, and has a mutable index called stage.
+git track changes.
